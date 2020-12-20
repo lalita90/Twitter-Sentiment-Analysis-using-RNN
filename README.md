@@ -3,7 +3,7 @@ In this project I did binary classification of tweets for sentiment analysis in 
 
 Problem Definition- Binary classification of tweets based on their sentiments/ moods using various machine learning algorithms.
 Important steps involved-
-1. Data preprocessing- length < 280 characters, lower case, removal of unnecessary part
+1. Data preprocessing- length < 280 characters, lower case, removal of unnecessary part such as hyperlinks, stop words, inflection in words
 2. Data split- training, test and validation to optimize hyperparameters
 3. Vectorization- using word2vec embedding along with Tokenization and lemmatization
 4. Classification- using various ML algorithms such as SVM,logistic regression, baseline NN, RNN where RNN outperforms other ML algorithms and give up to 84% test        accuracy
