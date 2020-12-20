@@ -1,5 +1,7 @@
 # Twitter-Sentiment-Analysis-using-RNN
-In this project I did binary classification of tweets for sentiment analysis in order to determine the mood or opinions shared by the users on twitter. As we all are aware, sentiment analysis has got wide applications in the analysis of survey response, product review or movie review. With this, industry can get to know what really people think about their products and can take data driven decisions to improve. 
+Following set of code achieves binary classification of tweets for sentiment analysis in order to determine the mood or opinions shared by the users on twitter. Sentiment analysis has got wide applications in the analysis of survey response, product review or movie review. 
+
+The usecase of this could be for industries to find out With this sentiment analysis, industry can get to know what really people think about their products and can take data driven decisions to improve. 
 
 Problem Definition- Binary classification of tweets based on their sentiments/ moods using various machine learning algorithms.
 Important steps involved-
