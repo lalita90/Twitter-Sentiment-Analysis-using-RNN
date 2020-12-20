@@ -7,6 +7,7 @@ Important steps involved-
 2. Data split- training, test and validation to optimize hyperparameters
 3. Vectorization- using word2vec embedding along with Tokenization and lemmatization
 4. Classification- using various ML algorithms such as SVM,logistic regression, baseline NN, RNN where RNN outperforms other ML algorithms and give up to 84% test        accuracy
+
 Tools used: Keras, Tensorflow, Google Colab
 Data: Sentiment140 by Stanford
 
