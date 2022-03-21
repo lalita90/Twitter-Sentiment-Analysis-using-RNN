@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis-using-RNN
-Problem Definition- Following set of algorithms achieves binary classification of tweets for sentiment analysis in order to determine the mood or opinions shared by the users on twitter. 
+Problem Definition- Following set of algorithms achieve binary classification of tweets for sentiment analysis in order to determine the mood or opinions shared by the users on twitter. 
 
 Applications- Sentiment analysis has got wide applications in the analysis of survey response, product review or movie review. The usecase of this could be for industries to find out what really people think about their products and can take data driven decisions to improve their businesses. 
 
